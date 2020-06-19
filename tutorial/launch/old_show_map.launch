@@ -1,0 +1,4 @@
+<launch>
+  <!-- rviz -->
+  <node pkg="rviz" type="rviz" name="rviz" args="-d $(find tutorial)/config/rviz/show_map.rviz"/>
+</launch>

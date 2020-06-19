@@ -1,0 +1,17 @@
+<launch>
+  <!-- SR300 -->
+  <include file="$(find realsense2_camera)/launch/rs_rgbd.launch">
+    <!-- <arg name="color_fps" value="10"/>
+    <arg name="depth_fps" value="10"/> -->
+  </include>
+  
+  <!-- Apriltag -->
+  <include file="$(find apriltags_ros)/launch/localization.launch"/>
+  
+  <!-- Calculate distance node -->
+  <!-- Lab -->
+  <!-- <node pkg="tutorial" type="apriltag_lab" name="apriltag_tf" output="screen"/> -->
+  
+  <!-- rviz -->
+  <node pkg="rviz" type="rviz" name="rviz" args="-d $(find tutorial)/config/rviz/localization.rviz"/>
+</launch>

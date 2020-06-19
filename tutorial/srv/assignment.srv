@@ -1,0 +1,6 @@
+int64 tag1_id
+int64 tag2_id
+---
+string result
+float64 distance
+

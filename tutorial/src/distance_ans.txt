@@ -1,0 +1,58 @@
+from tag_0 to tag_1
+distance: 0.07085637423078066
+
+
+from tag_0 to tag_2
+distance: 0.1412954919389995
+
+
+from tag_0 to tag_3
+distance: 0.2116008917683009
+
+
+from tag_0 to tag_4
+distance: 0.04718196937360469
+
+
+from tag_0 to tag_5
+distance: 0.08534187514649282
+
+
+from tag_0 to tag_6
+distance: 0.1492650282283986
+
+
+from tag_0 to tag_7
+distance: 0.2170992609755387
+
+
+from tag_0 to tag_8
+distance: 0.09441790153767894
+
+
+from tag_0 to tag_9
+distance: 0.1180749856285346
+
+
+from tag_0 to tag_10
+distance: 0.1701088862324285
+
+
+from tag_0 to tag_11
+distance: 0.232088684380267
+
+
+from tag_0 to tag_12
+distance: 0.1465995711583776
+
+
+from tag_0 to tag_13
+distance: 0.1623347611411822
+
+
+from tag_0 to tag_14
+distance: 0.2029418005319904
+
+
+from tag_0 to tag_15
+distance: 0.256684079686209
