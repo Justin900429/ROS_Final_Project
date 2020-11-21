@@ -33,4 +33,4 @@ Before starting this section, you should ensure that the first two steps have al
 ```
 rosrun hcc_lab9 get_format.py
 ```
-After pressing "B" on joystick, the distance and the images will be saved. All the image files will be in hcc_lab9/images and json file will be right in hcc_lab9. Json file won't be overwritten when it exits. Instead, new information will append to it.
+After pressing **"B"** on joystick, the distance and the images will be saved. All the image files will be in hcc_lab9/images and json file will be right in hcc_lab9. Json file won't be overwritten when it exits. Instead, new information will been appended to it.
